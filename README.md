@@ -20,3 +20,6 @@ https://ipfs.io/docs/commands/#ipfs-ls
 
 
 https://github.com/bitcoinj/bitcoinj/tree/master/examples/src/main/java/org/bitcoinj/examples
+
+
+https://docs.google.com/presentation/d/1K4PeBZn4Qaq9dkZGS6f0cjRcz14xeW9XyZJ3145qFSQ/edit
